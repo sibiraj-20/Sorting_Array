@@ -24,7 +24,6 @@ class Sort
             
         }
             System.out.println("\nThe value of array after sorting ");
-
             for (int i=0;i<a.length;i++)
             {
             System.out.print(a[i]+" ");
